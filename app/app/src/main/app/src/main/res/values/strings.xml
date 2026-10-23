@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghost Overlay Camera</string>
+
+    <string name="intro_text">Pick a reference photo, start the overlay, then open your Camera app. The photo floats above it so you can line up your shot.</string>
+    <string name="status_no_photo">No reference photo selected yet</string>
+    <string name="status_photo_selected">Reference photo ready</string>
+    <string name="status_overlay_running">Overlay is running. Open your Camera app.</string>
+    <string name="status_overlay_stopped">Overlay is stopped</string>
+
+    <string name="btn_select_photo">Choose reference photo</string>
+    <string name="btn_grant_permission">Allow display over other apps</string>
+    <string name="btn_start">Start overlay</string>
+    <string name="btn_stop">Stop overlay</string>
+
+    <string name="opacity_label">Opacity</string>
+    <string name="btn_hide">Hide</string>
+    <string name="btn_show">Show</string>
+    <string name="btn_close">Close</string>
+    <string name="drag_handle">Drag here to move</string>
+
+    <string name="notification_channel_name">Overlay running</string>
+    <string name="notification_title">Ghost Overlay Camera</string>
+    <string name="notification_text">Overlay is active. Tap to open the app.</string>
+
+    <string name="toast_pick_first">Choose a reference photo first</string>
+    <string name="toast_permission_needed">Permission needed: allow display over other apps</string>
+    <string name="toast_image_load_failed">Could not load that photo</string>
+</resources>
